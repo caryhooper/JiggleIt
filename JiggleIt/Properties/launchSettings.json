@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "JiggleIt": {
+      "commandName": "Project",
+      "commandLineArgs": "7"
+    }
+  }
+}
